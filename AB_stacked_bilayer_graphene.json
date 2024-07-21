@@ -1,0 +1,68 @@
+{
+    "sample_name": "Bilayer graphene",
+    "lattice_spacing1": 1.42,
+    "lattice_spacing2": 3.35,
+    "layers": 1,
+    "atoms": [
+        "4"
+    ],
+    "diffraction_points": 3,
+    "atom_coordinates": [
+        [
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            1.732,
+            1.0,
+            0.0
+        ],
+        [
+            0.866,
+            0.5,
+            1.0
+        ],
+        [
+            1.732,
+            1.0,
+            1.0
+        ]
+    ],
+    "diffraction_coordinates": [
+        [
+            -0.577,
+            0.333,
+            0.0
+        ],
+        [
+            0.0,
+            0.667,
+            0.0
+        ],
+        [
+            -0.577,
+            1.0,
+            0.0
+        ]
+    ],
+    "f_values": [
+        1.256,
+        1.256,
+        0.591
+    ],
+    "rotation_axis_point_count": [
+        200.0
+    ],
+    "rotation_axis_range": [
+        -15.0,
+        15.0,
+        -15.0,
+        15.0
+    ],
+    "rotation_axis_vector": [
+        1.0,
+        0.0,
+        1.0
+    ]
+}
